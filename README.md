@@ -36,7 +36,99 @@ Save different versions of the videos and compare the results to understand how 
 
 
 
-
+Experiment 9: Exploration of Prompting Techniques for Video Generation 
+Aim 
+To explore and understand the impact of different prompting techniques on AI-based 
+video generation, highlighting how varying levels of prompt detail influence video 
+quality, coherence, and style. 
+ 
+Procedure 
+1. Familiarization with Tools 
+Explored tools: 
+• Runway Gen-2 – Realistic video generation from text. 
+• Synthesia – Avatar-based AI videos. 
+• Pictory – Converts long-form text into videos. 
+• DeepBrain – Avatar-led script videos with lip-syncing. 
+Chosen Tool for Experiment: Runway Gen-2 (suitable for scene generation and camera 
+motion testing). 
+ 
+Scenario 1: Dog in the Park 
+Simple Prompt Version 
+"A dog in the park." 
+• Result: Generic dog on grass; minimal motion or environmental detail. 
+• Limitations: Lack of personality, vague scene elements. 
+Refined Prompt Version 
+"A golden retriever running joyfully across a sunny park with green trees and kids playing 
+in the background." 
+• Result: Added vibrancy and clearer subject-environment relationship. 
+• Improvements: Expressive action, environmental richness. 
+ 
+Time and Motion Enhanced Version 
+"A golden retriever chasing a frisbee in slow motion across a park during golden hour, 
+with birds flying above and kids cheering in the background." 
+• Result: Beautiful lighting effects, fluid action, immersive environment. 
+• Impact: Enhanced realism and emotional engagement. 
+Multiple Prompt Variations 
+1. "A brown dog sniffing flowers in a quiet park at sunrise." 
+2. "A playful puppy chasing butterflies near a lake in the park." 
+3. "A dog and its owner jogging through a foggy morning park." 
+• Observation: Prompt tone and detail drastically changed ambiance and pacing. 
+Scenario 2: Sunset Over the Ocean 
+Simple Prompt Version 
+"Sunset over the ocean." 
+• Result: Generic transition of colors; minimal motion or camera work. 
+Refined Prompt Version 
+"A glowing orange sun setting slowly over a calm ocean, casting golden reflections on 
+the water." 
+• Result: More visually appealing and atmospheric. 
+Time and Motion Enhanced Version 
+"A time-lapse video of the sun setting over the ocean, with waves gently rolling, seagulls 
+f
+ lying across the sky, and the camera slowly panning across the beach." 
+• Result: Smooth camera motion, dynamic sky transition, soothing visuals. 
+• Strength: Emotional storytelling and cinematic effect. 
+Multiple Prompt Variations 
+1. "Sun setting behind a sailboat in the distance with ocean breeze and sound of 
+waves." 
+2. "Dramatic sunset with stormy clouds parting over a turbulent sea." 
+3. "Aerial drone view of the sun dipping below the horizon while dolphins swim near 
+the shore." 
+ 
+Deliverables Summary 
+Prompt Type Dog in the Park Sunset Over the Ocean 
+Simple Basic dog in grass Flat scene with basic sunset colors 
+Refined Joyful retriever in sunny, 
+active park 
+Orange glow, water reflection, 
+atmospheric 
+Time & Motion 
+Enhanced 
+Slow-motion frisbee 
+chase, golden hour, birds 
+Time-lapse, camera pan, seagulls, 
+dynamic water 
+Multiple Variants 
+Compared 
+Varied dog actions 
+(sniffing, chasing, jogging) 
+Different sunset moods (stormy, drone 
+view, dolphin appearance) 
+ 
+Findings 
+• Prompt Clarity = Output Quality: The more specific and cinematic the prompt, 
+the more refined and stylistically appropriate the output. 
+• Motion Elements Add Realism: Camera actions like zooming, panning, and time
+lapse greatly enhanced immersion. 
+• Style Instructions Matter: Adding "cinematic," "animated," or "drone-shot" 
+changed video types significantly. 
+ 
+Prompt Effectiveness Summary 
+Prompting Technique Effectiveness Rating (1
+5) Notes 
+Simple Prompts   ☆☆☆ Too vague; low coherence 
+Refined Prompts     ☆ Better detail and subject clarity 
+Motion/Timing 
+Prompts       High engagement, fluid motion
 
 
 
